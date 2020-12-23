@@ -1,0 +1,17 @@
+//
+//  LFPrefixHeader.pch
+//  TestDemo
+//
+//  Created by liufei on 2020/12/23.
+//
+
+#ifndef LFPrefixHeader_pch
+#define LFPrefixHeader_pch
+
+#define LFRGBA(r,g,b,a) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:a]
+#define LFRGB(r,g,b) LFRGBA(r,g,b,1.0f)
+
+#import <Masonry.h>
+#import "YD_ShareAlertView.h"
+
+#endif /* LFPrefixHeader_pch */
