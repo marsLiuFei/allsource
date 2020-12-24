@@ -1,6 +1,6 @@
 PODS:
   - Masonry (1.1.0)
-  - TestDemoSDK (0.0.1):
+  - TestDemoSDK (0.0.5):
     - Masonry
 
 DEPENDENCIES:
@@ -17,12 +17,12 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   TestDemoSDK:
-    :commit: 8155418a11134d16cf8c074418ae1dc9b0fb855d
+    :commit: c83f557bdbc5ac3391a134aad13f2c1982763f72
     :git: https://github.com/marsLiuFei/TestDemoSDK.git
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  TestDemoSDK: 13922cb53e517f6d8cf74e335810930fa5d8d170
+  TestDemoSDK: 26152f59aaf1db8c8a43ecdbe99c77d8a062e2dd
 
 PODFILE CHECKSUM: 38c2912f9b34141950cf365b90dc7ed3328317ea
 

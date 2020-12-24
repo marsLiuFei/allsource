@@ -1,7 +1,7 @@
 {
   "name": "TestDemoSDK",
-  "version": "0.0.1",
-  "summary": "test TestDemoSDK 1217",
+  "version": "0.0.5",
+  "summary": "test TestDemoSDK 1224",
   "description": "此版本SDK说明文字，自己根据实际书写",
   "homepage": "https://github.com/marsLiuFei/TestDemoSDK",
   "license": "MIT",
@@ -13,8 +13,9 @@
   },
   "source": {
     "git": "https://github.com/marsLiuFei/TestDemoSDK.git",
-    "tag": "0.0.1"
+    "tag": "0.0.5"
   },
+  "resources": "TestDemoSDK/Resource.bundle",
   "ios": {
     "vendored_frameworks": "TestDemoSDK/TestDemoSDK.framework"
   },
